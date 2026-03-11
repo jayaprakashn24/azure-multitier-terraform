@@ -2,7 +2,7 @@
 
 This project demonstrates how to deploy a secure and scalable multi-tier architecture in Microsoft Azure using Terraform.
 
-Architecture includes:
+Architecture includes-
 
 - Azure Virtual Network
 - Web Subnet
